@@ -82,7 +82,8 @@ List<Recipe> recipesList = [
     id: 5,
     moodId: 3,
     title: "Normandie",
-    description: "Коктейль, которым больше любуешься, чем наслаждаешься",
+    description:
+        "Горячий и густой грушевый коктейль с ромом и сидром согревает и рождает мечты. Он словно зовет туда, на север Франции, откуда он родом.",
     image: "assets/images/normand.jpg",
     ingredients: [
       "Пюре груши – 30 г",
